@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "MeteoApp_EDemers",
+  "display": "standalone",
+  "name": "MeteoApp_EDemers",
+  "short_name": "MeteoApp_EDemers",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "scope": "/"
+}
